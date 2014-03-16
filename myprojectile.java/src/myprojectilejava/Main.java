@@ -17,6 +17,8 @@ public class Main {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.print("Haha");
+        
+        system.out("I am so happy that I learnt how to push to git");
     }
 
 }
